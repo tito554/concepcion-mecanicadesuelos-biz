@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Concepción
+
+> Geotechnical engineering services in Concepción, Chile.
+
+## Services
+- [Aislacion Sismica](https://concepcion.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://concepcion.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://concepcion.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://concepcion.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://concepcion.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://concepcion.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://concepcion.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://concepcion.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://concepcion.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://concepcion.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://concepcion.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://concepcion.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://concepcion.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://concepcion.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://concepcion.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://concepcion.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://concepcion.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://concepcion.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://concepcion.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://concepcion.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://concepcion.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://concepcion.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://concepcion.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://concepcion.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://concepcion.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://concepcion.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://concepcion.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://concepcion.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://concepcion.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://concepcion.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://concepcion.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://concepcion.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://concepcion.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://concepcion.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://concepcion.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://concepcion.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://concepcion.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://concepcion.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://concepcion.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://concepcion.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Concepción, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
